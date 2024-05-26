@@ -18,5 +18,6 @@ Aspiring Full Stack Developer with a passion for creating seamless web applicati
 # ⚡ Fun fact
  - I love music
 # My github status
- ![praveenrames github status](https://github-readme-stats.vercel.app/api?username=praveenrames&theme=blue-green)
-  <img align="right" width="370" heigth="290" src="https://www.web24zone.com/wp-content/uploads/2022/10/web-designer-developing-front-end-tech_143055-352-1024x696.webp">
+ ![praveenrames github status](https://github-readme-stats.vercel.app/api?username=praveenrames&theme=blue-green)<br>
+  
+  <img align="left" width="450" heigth="340" src="https://www.web24zone.com/wp-content/uploads/2022/10/web-designer-developing-front-end-tech_143055-352-1024x696.webp">
